@@ -1,6 +1,6 @@
 // active hamburger menu
 
-let gameNum = "3009";
+let gameNum = "@3009";
 let userNum = prompt("Enter correct  Password ");
 while (userNum !== gameNum) {
     userNum = prompt("Wrong Password, Try again or contact Sachin to get password: ");
