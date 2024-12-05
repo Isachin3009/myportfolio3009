@@ -225,8 +225,8 @@ section{
 .hero-info p{
     font-size: 1.2rem;
     /* color: var(--font-color); */
-    color: #1d002c;
-    font-weight: bold;
+    color: #ffba41;
+    font-weight: 500;
     line-height: 1.5rem;
 }
 
