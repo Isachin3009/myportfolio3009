@@ -432,8 +432,10 @@ section{
     left: 0%;
 }
 
-.bx-download{
-    color: #c01921;
+.bxs-download { 
+    font-size: larger;
+    margin-left: 10px;
+
 }
 
 
@@ -446,7 +448,7 @@ section{
 }
 
 .about-content h3{
-    font-size: 2.1rem;
+    font-size: 2.2rem;
     line-height: 3rem;
     margin: .5rem 0;
     color: #ffba41;
@@ -455,12 +457,12 @@ section{
 
 .about-content p{
     /* color: var(--font-color); */
-    color: #ffba41;
-    font-weight: bolder;
+    color: #fefbff;
+    font-weight: 500;
 }
 
 .text-box p{
-    font-size: 1.1rem;
+    font-size: 1rem;
     /* font-weight: 500; */
 }
 
@@ -475,7 +477,7 @@ section{
     border: 20x solid #1d002c;
     font-size: 1.1rem;
     font-weight: 700;
-    color: #000;
+    color: #1d002c;
     box-shadow: rgba(60,64,67,0.3)0px 1px 2px 0,
                   rgba(60,64,67,0.15)0px 2px 6px 2px;
     margin-right: .5rem;
@@ -484,7 +486,7 @@ section{
 }
 
 .cvContent .btn{
-    color:#561f62;
+    color:#1d002c;
     border:3px solid #1d002c;
     font-weight:bold;
 
@@ -496,6 +498,8 @@ section{
 .about-btn button.active{
     background: var(--gradient-color-bg);
     color: #ffff;
+        border: 2px solid #e5eef7;
+
 }
 .about-span{
     color: #1d002c;
