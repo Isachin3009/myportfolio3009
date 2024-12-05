@@ -61,8 +61,8 @@ header .logo{
 }
 
 span{
-    background: var(--gradient-color-bg);
-    -webkit-background-clip: text;
+    background-color:white;
+    background-clip: text;
     color: transparent;
 }
 
@@ -223,7 +223,7 @@ section{
 
 
 .hero-info p{
-    font-size: 1.2rem;
+    font-size: 1rem;
     /* color: var(--font-color); */
     color: #ffba41;
     font-weight: 500;
@@ -458,7 +458,7 @@ section{
 
 .about-content p{
     /* color: var(--font-color); */
-    color: #fefbff;
+    color: #561f62;
     font-weight: 500;
 }
 
@@ -541,9 +541,11 @@ section{
     margin-bottom: 2rem;
 }
 
-.main-text .heading{
+/* .main-text .heading{
     color: var(--main-color);
-}
+        background-color: white;
+
+} */
 
 .main-text span{
     color: var(--font-color);
