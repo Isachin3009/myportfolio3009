@@ -677,9 +677,25 @@ section{
 .services .text-box .btn{
     padding: 10px 20px;
     color: #1d002c;
-    font-weight: bold;
+    font-weight: bolder;
+        border: 2px solid #3F005F;
+
+}
+.services .text-box .btn:hover{
+    padding: 10px 20px;
+    color: #1d002c;
+    font-weight: bolder;
+    border: 3px solid #1d002c;
 }
 
+.bxl-whatsapp{
+    margin-left: 7px;
+
+}
+.bxl-whatsapp:before{
+    font-weight: bolder;
+font-size:larger;
+}
 
 .services .showcase .ring{
     width: 100px;
