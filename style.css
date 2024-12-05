@@ -62,8 +62,8 @@ header .logo{
 
 span{
     background-color:white;
-    background-clip: text;
-    color: transparent;
+/*     background-clip: text; */
+    color:#ffba41;
 }
 
 ul.navlist{
@@ -541,17 +541,17 @@ section{
     margin-bottom: 2rem;
 }
 
-/* .main-text .heading{
+.main-text .heading{
     color: var(--main-color);
         background-color: white;
 
-} */
+} 
 
-.main-text span{
+/* .main-text span{
     color: var(--font-color);
     font-weight: 200;
     text-transform: uppercase;
-}
+} */
 
 .allServices{
     display: grid;
