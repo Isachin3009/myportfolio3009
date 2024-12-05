@@ -61,7 +61,7 @@ header .logo{
 }
 
 span{
-    background-color:white;
+/*     background-color:white; */
 /*     background-clip: text; */
     color:#ffba41;
 }
@@ -1035,7 +1035,7 @@ background-color: #ffba41;
     
 }
 .skills{
-    background-color: #561f62;
+    background-color: white;
     border: 5px solid #ffba41;
 }
 .main-text{
@@ -1050,7 +1050,7 @@ background-color: #ffba41;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #561f62;
+    background-color: white;
 }
 
 .outer-circle{
