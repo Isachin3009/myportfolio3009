@@ -1,6 +1,6 @@
 // active hamburger menu
 
-let gameNum = "@3009";
+/*let gameNum = "@3009";
 let userNum = prompt(" Enter correct  Password @3009 ");
 while (userNum !== gameNum) {
     userNum = prompt("Wrong Password, Try again or contact Sachin to get password: ");
@@ -11,7 +11,7 @@ menuIcon.addEventListener("click",()=>{
     menuIcon.classList.toggle("active");
     navlist.classList.toggle("active");
     document.body.classList.toggle("open");
-});
+});*/
 
 // remove navlist
 navlist.addEventListener("click",()=>{
